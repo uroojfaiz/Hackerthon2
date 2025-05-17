@@ -417,37 +417,19 @@ body{
      font-size: 10px; 
 }
 .card-container4{
-    width: 100%;
-    flex-direction: row;
-    margin: auto;
-    flex-wrap: wrap;
-    overflow-x: hidden;
+   display: none;
 }
 .card-container5{
-    width: 90%;
-    flex-direction: row;
-    margin-left: 60px;
-     flex-wrap: wrap;
-    overflow-x: hidden;
+     display: none;
 }
 .img7{
     width: 20%;
 }
 .card-container2{
-    width: 100%;
-    flex-direction: row;
-    margin: auto;
-    text-align: center;
-    font-size: 12px;
-     flex-wrap: wrap;
-    overflow-x: hidden;
+    display: none;
 }
 .card-container3{
-    width: 100%;
-    flex-direction: row;
-    margin-left: 220px;
-     flex-wrap: wrap;
-    overflow-x: hidden;
+   display: none;
 }
 .img3{
     width: 150px;
